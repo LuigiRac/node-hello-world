@@ -1,4 +1,4 @@
 console.log("Hello World");
 
 
-log
+// console.log("hello Boolean");
