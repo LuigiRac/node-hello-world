@@ -1,4 +1,10 @@
-console.log("Hello World");
+// console.log("Hello World");
 
 
-console.log("hello Boolean");
+// console.log("Hello Boolean");
+
+
+const newWord = process.argv;
+console.log(newWord);
+
+
